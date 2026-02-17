@@ -4,7 +4,6 @@
     <td align="right" style="border: none;"><img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="100" /></td>
  </tr>
 </table>
-
 ## 🎓 Sobre mim
 
 🌎 Estudante de **Engenharia da Computação** na **UTFPR - Curitiba**
