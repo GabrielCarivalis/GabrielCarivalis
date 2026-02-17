@@ -1,4 +1,4 @@
-# Olá, meu nome é Gabriel Carivalis! <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="100" align="right" />
+<h1>Olá, meu nome é Gabriel Carivalis <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="100" style="vertical-align: middle;" /></h1>
 
 ---
 
