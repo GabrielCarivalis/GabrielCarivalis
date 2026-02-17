@@ -1,13 +1,9 @@
-<div align="center">
-
-<table border="0">
+<table border="0" width="100%">
  <tr>
-    <td align="left"><h1>Olá, meu nome é Gabriel Carivalis!
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJnNTJrcHFybmczOWQ1cG9zOW9rcTg5enU5Y3NlNHY1anV0ZzhjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="100" alt="Descrição">
-    /></td>
+    <td align="left"><h1>Olá, meu nome é Gabriel Carivalis</h1></td>
+    <td align="right"><img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="100" /></td>
  </tr>
 </table>
-
 
 ## 🎓 Sobre mim
 
