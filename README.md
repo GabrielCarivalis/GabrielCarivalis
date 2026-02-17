@@ -1,9 +1,7 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1>Olá, meu nome é Gabriel Carivalis</h1>
-  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="100" />
-</div>
+# Olá, meu nome é Gabriel Carivalis! <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="100" align="right" />
 
 ---
+
 ## 🎓 Sobre mim
 
 🌎 Estudante de **Engenharia da Computação** na **UTFPR - Curitiba**
@@ -30,9 +28,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielCarivalis)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-carivalis-00088a3a8/)
 
-<div align="center">
-  
-
 </div>
-<!--
-**GabrielCarivalis/GabrielCarivalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
