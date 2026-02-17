@@ -1,9 +1,9 @@
-<table style="border: none; width: 100%;">
- <tr>
-    <td align="left" style="border: none;"><h1>Olá, meu nome é Gabriel Carivalis</h1></td>
-    <td align="right" style="border: none;"><img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="100" /></td>
- </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1>Olá, meu nome é Gabriel Carivalis</h1>
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="100" />
+</div>
+
+---
 ## 🎓 Sobre mim
 
 🌎 Estudante de **Engenharia da Computação** na **UTFPR - Curitiba**
